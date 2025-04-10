@@ -17,8 +17,8 @@ export const About = () => {
                          <div className='w-2 h-2 bg-zinc-50 rounded-full' ></div>
                     </button>
                 </div>
-                <div className='w-1/2 h-[60vh] rounded-2xl bg-[#8d9f47] p-10 '>
-
+                <div className='w-1/2 h-[60vh] rounded-2xl bg-[#8d9f47] overflow-hidden  '>
+                    <img className='w-full h-full object-cover rounded-2xl ' src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg" ></img>
                 </div>
                 
         </div>
